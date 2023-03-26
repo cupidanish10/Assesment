@@ -1,0 +1,7 @@
+body {
+    background-color: #fff;
+}
+
+#inputSalutaion + input{
+    flex: 2;
+}
